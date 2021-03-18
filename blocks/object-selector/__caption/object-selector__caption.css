@@ -1,0 +1,6 @@
+.object-selector__caption {
+  position: absolute;
+  background-color: white;
+  padding: 0 5px 0 5px;
+  top: -30px;
+}

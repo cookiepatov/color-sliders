@@ -1,0 +1,7 @@
+.text {
+  background-color: white;
+  border: 2px solid rgba(0, 0, 0, 0.301);
+  border-radius: 2px;
+  margin: 0;
+  padding: 10px 0 10px 0;
+}

@@ -1,0 +1,34 @@
+.sliders__item {
+  margin-bottom: 25px;
+  clear: left;
+}
+
+.sliders__item:last-of-type {
+  margin-bottom: 0px;
+}
+
+
+#slider-red .ui-slider-range {
+  background: #ef2929;
+}
+
+#slider-red .ui-slider-handle {
+  border-color: #ef2929
+}
+
+
+#slider-green .ui-slider-range {
+  background: #8ae234;
+}
+
+#slider-green .ui-slider-handle {
+  border-color: #8ae234;
+}
+
+#slider-blue .ui-slider-range {
+  background: #729fcf;
+}
+
+#slider-blue .ui-slider-handle {
+  border-color: #729fcf;
+}

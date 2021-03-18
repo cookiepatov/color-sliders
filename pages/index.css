@@ -1,0 +1,12 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/content/content.css);
+@import url(../blocks/color-picker/color-picker.css);
+
+
+@import url(../blocks/color-picker/__lower-section/color-picker__lower-section.css);
+
+@import url(../blocks/sliders/sliders.css);
+@import url(../blocks/sliders/__item/sliders__item.css);
+
+@import url(../blocks/text/text.css);
